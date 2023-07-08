@@ -3,10 +3,6 @@
 
 **Wellcome to** my GitHub profile✨
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
-
-!--/<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nellycn" alt="nellycn" /></a> </p>
-
 - 🔭 I’m currently working on **Burguer Qeen API Client**
 
 - 🌱 I’m currently learning **React and NextJS**
