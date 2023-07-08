@@ -1,14 +1,27 @@
-# Hi, I'm Nelly👋
+# Hi 👋, I'm Nelly
 <h3 align="center"><i>"A passionate frontend developer from Perú"</i></h3>
 
 **Wellcome to** my GitHub profile✨
 
-- 🔭 I’m currently working on **MD-Links Proyect**✨
-- 🌱 I’m currently learning _**NodeJs**_
-- 👯 I’m looking to collaborate on some new proyect
-- 🤔 I’m looking for differents ways to resolves problems
-- 💬 Ask me about logical thinking
-- 📫 How to reach me: njanetcumpa@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nellycn" alt="nellycn" /></a> </p>
+
+- 🔭 I’m currently working on **Burguer Qeen API Client**
+
+- 🌱 I’m currently learning **React and NextJS**
+
+- 👯 I’m looking to collaborate on **new proyect**
+
+- 🤝 I’m looking for help with **new programming languages**
+
+- 👨‍💻 All of my projects are available at [https://github.com/NellyCN?tab=repositories](https://github.com/NellyCN?tab=repositories)
+
+- 💬 Ask me about **logical thinking**
+
+- 📫 How to reach me **njanetcumpa@gmail.com**
+
+- ⚡ Fun fact **"Don't forget the semicolon"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
