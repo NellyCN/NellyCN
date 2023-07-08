@@ -3,7 +3,7 @@
 
 **Wellcome to my GitHub profile**✨
 
-- 🔭 I’m currently working on **Burguer Qeen API Client**
+- 🔭 I’m currently working on **Burger Queen API Client**
 
 - 🌱 I’m currently learning **React and NextJS**
 
