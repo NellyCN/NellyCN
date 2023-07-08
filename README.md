@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nelly
 <h3 align="center"><i>"A passionate frontend developer from Perú"</i></h3>
 
-**Wellcome to** my GitHub profile✨
+**Wellcome to my GitHub profile!**✨
 
 - 🔭 I’m currently working on **Burguer Qeen API Client**
 
