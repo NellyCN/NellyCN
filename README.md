@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nelly
-<h3 align="center"><i>"A passionate **Front-End Developer** from Perú"</i></h3>
+<h3 align="center"><i>"A passionate Front-End Developer from Perú"</i></h3>
 
 **Wellcome to my GitHub profile**✨
 
