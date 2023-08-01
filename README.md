@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nellycn" alt="nellycn" /></a> </p>
-
 - 🔭 I’m currently working on **Burguer Qeen API Client**
 
 - 🌱 I’m currently learning **React and NextJS**
@@ -23,7 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/nelly janet cumpa nomberto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/nerucn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nerucn" height="30" width="40" /></a>
 </p>
 
