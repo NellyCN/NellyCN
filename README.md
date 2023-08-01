@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nellycumpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto linkedin" height="30" width="40" /></a>
-<a href="https://github.com/NellyCN" target="blank"><img align="center" src="https://www.freepik.es/iconos-gratis/github-signo_744432.htm#query=logo%20github&position=10&from_view=keyword&track=ais" alt="nelly janet cumpa nomberto github" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nellycumpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="njcn linkedin" height="30" width="40" /></a>
+<a href="https://github.com/NellyCN" target="blank"><img align="center" src="https://www.freepik.es/iconos-gratis/github-signo_744432.htm#query=logo%20github&position=10&from_view=keyword&track=ais" alt="njcn github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
