@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **new programming languages**
 
-- 👨‍💻 All of my projects are available at **https://github.com/NellyCN**
+- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/NellyCN?tab=repositories)**
 
 - 💬 Ask me about **logical thinking**
 
