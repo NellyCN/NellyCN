@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Burguer Qeen API Client**
 
-- 🌱 I’m currently learning **React and NextJS, Java with SQL**
+- 🌱 I’m currently learning **React and NextJS, Java with SQL, AWS Cloud Practicioner**
 
 - 👯 I’m looking to collaborate on **new proyect**
 
