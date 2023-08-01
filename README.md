@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **new programming languages**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NellyCN?tab=repositories](https://github.com/NellyCN?tab=repositories)
+- 👨‍💻 All of my projects are available at **https://github.com/NellyCN**
 
 - 💬 Ask me about **logical thinking**
 
@@ -23,7 +23,6 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/nelly janet cumpa nomberto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
-  
 <a href="https://discord.gg/nerucn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nerucn" height="30" width="40" /></a>
 </p>
 
