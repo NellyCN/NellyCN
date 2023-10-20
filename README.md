@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
 
-- 🔭 I’m currently working on **App with Java **
+- 🔭 I’m currently working on **App with Java**
 
-- 🌱 I’m currently learning **Java with SQL and FlowiseIA to develop a Chatboot **
+- 🌱 I’m currently learning **Java with SQL and FlowiseIA to develop a Chatboot**
 
 - 👯 I’m looking to collaborate on **new proyect**
 
