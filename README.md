@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nelly</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate Full Stack Developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
 
-- 🔭 I’m currently working on **App with Java**
+- 🔭 I’m currently working on **Microservices Project for an XYZ Bank, with Java / Spring Boot and MySql**
 
-- 🌱 I’m currently learning **Java with SQL and FlowiseIA to develop a Chatboot**
+- 🌱 I’m currently learning about **Microservices, Spring Boot, Webflux**
 
 - 👯 I’m looking to collaborate on **new proyect**
-
-- 🤝 I’m looking for help with **new programming languages**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/NellyCN?tab=repositories)**
 
