@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="[https://linkedin.com/in/nelly janet cumpa nomberto](https://github.com/NellyCN)](https://www.linkedin.com/in/nellycumpa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nellycumpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
 <a href="https://discord.gg/nerucn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nerucn" height="30" width="40" /></a>
 </p>
 
