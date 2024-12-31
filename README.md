@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **"Don't forget the semicolon"**
 
-<h2 align="left">Connect with me:</h2>
-<p align="left"><a href="https://www.linkedin.com/in/nellycumpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
+<h2 align="center">Connect with me:</h2>
+<p align="center"><a href="https://www.linkedin.com/in/nellycumpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/devjanetcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devjanetcn" height="30" width="40" /></a>
 <a href="https://discord.gg/nerucn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nerucn" height="30" width="40" /></a>
 </p>
