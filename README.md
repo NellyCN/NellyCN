@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
 
-- 🔭 I’m currently working on **Microservices Project for an XYZ Bank, with Java / Spring Boot and MySql**
+- 🔭 I’m currently working on **MadeByJane Store** using for FrontEnd: React + Vite, Tailwind, Java Script and for the BackEnd: Java / Spring Boot and MySql**
 
-- 🌱 I’m currently learning about **Microservices, Spring Boot, Webflux**
+- 🌱 I’m currently learning about **React with Java, Spring Boot and SQL**
 
 - 👯 I’m looking to collaborate on **new proyect**
 
