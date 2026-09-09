@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nelly Cumpa</h1>
-<p align="center">Full Stack Developer, turning real user needs into clean, scalable web applications.</p>
+<h3 align="center">Product-Minded Full Stack Developer • React • Java • UX-Driven System<h3 align="center">
+<p align="center">Turning real user needs into clean, scalable web applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
 
