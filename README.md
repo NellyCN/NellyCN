@@ -2,7 +2,7 @@
 <h3 align="center">Product-Minded Full Stack Developer • React • Java • UX-Driven System<h3 align="center">
 
   <p align="center">Turning real user needs into clean, scalable web applications.</p>
-
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
 
 - 🔭 I’m currently working on **MadeByJane Store** using for FrontEnd: React + Vite, Tailwind, Java Script and for the BackEnd: Java / Spring Boot and MySql**
