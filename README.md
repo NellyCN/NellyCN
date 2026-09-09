@@ -1,11 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
 <h1 align="center">Hi 👋, I'm Nelly Cumpa</h1>
 <h3 align="center">Product-Minded Full Stack Developer • React • Java • UX-Driven System</h3>
+<p align="center">Turning real user needs into clean, scalable web applications.</p>
 
-  <p align="center">Turning real user needs into clean, scalable web applications.</p>
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
-
-<h2 align="center">👩🏽‍💻 About Me</h2>
+<h2>👩🏽‍💻 About Me</h2>
 - 🔭 I’m currently working on **MadeByJane Store** using for FrontEnd: React + Vite, Tailwind, Java Script and for the BackEnd: Java / Spring Boot and MySql**
 
 - 🌱 I’m currently learning about **React with Java, Spring Boot and SQL**
@@ -20,7 +18,7 @@
 
 - ⚡ Fun fact **"Don't forget the semicolon"**
 
-<h2 align="center">Connect with me:</h2>
+<h2>🌐Connect with me:</h2>
 <p align="center"><a href="https://www.linkedin.com/in/nellycumpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@devjanetcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devjanetcn" height="30" width="40" /></a>
 <a href="https://discord.gg/nerucn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nerucn" height="30" width="40" /></a>
