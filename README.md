@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nelly Cumpa</h1>
-<h3 align="center">Product-Minded Full Stack Developer • React • Java • UX-Driven System<h3 align="center">
+<h3 align="center">Product-Minded Full Stack Developer • React • Java • UX-Driven System</h3>
 
   <p align="center">Turning real user needs into clean, scalable web applications.</p>
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
 
+<h2 align="center">👩🏽‍💻 About Me</h2>
 - 🔭 I’m currently working on **MadeByJane Store** using for FrontEnd: React + Vite, Tailwind, Java Script and for the BackEnd: Java / Spring Boot and MySql**
 
 - 🌱 I’m currently learning about **React with Java, Spring Boot and SQL**
