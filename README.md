@@ -1,9 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
-<h2 align="center">Hi 👋, I'm Nelly Cumpa</h2>
+<h2 align="center">Hi 👋 I'm Nelly Cumpa</h2>
 <h3 align="center">Product-Minded Full Stack Developer • React • Java • UX-Driven System</h3>
 <p align="center">Turning real user needs into clean, scalable web applications.</p>
 
 <h3>👩🏽‍💻 About Me</h3>
+
 - 🔭 I’m currently working on **MadeByJane Store** using for FrontEnd: React + Vite, Tailwind, Java Script and for the BackEnd: Java / Spring Boot and MySql**
 
 - 🌱 I’m currently learning about **React with Java, Spring Boot and SQL**
@@ -18,13 +19,13 @@
 
 - ⚡ Fun fact **"Don't forget the semicolon"**
 
-<h3🌐Connect with me:</h3>
+<h3>🌐Connect with me:</h3>
 <p align="center"><a href="https://www.linkedin.com/in/nellycumpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@devjanetcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devjanetcn" height="30" width="40" /></a>
 <a href="https://discord.gg/nerucn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nerucn" height="30" width="40" /></a>
 </p>
 
-<h3 align="Center">🛠️ Tech Stack</h3>
+<h3>🛠️ Tech Stack</h3>
 <h3 align="left">Frontend Development:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
