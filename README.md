@@ -1,58 +1,130 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nellycn&label=Profile%20views&color=0e75b6&style=flat" alt="nellycn" /> </p>
-<h2 align="center">Hi 👋 I'm Nelly Cumpa</h2>
-<h3 align="center">Product-Minded Full Stack Developer • React • Java • UX-Driven System</h3>
-<p align="center">Turning real user needs into clean, scalable web applications.</p>
+# Hi👋 I'm Nelly Cumpa
 
-<h3>👩🏽‍💻 About Me</h3>
+### Full Stack Developer | Java · Spring Boot · React · SQL | Data & Business Solutions
 
-- 🔭 I’m currently working on **MadeByJane Store** using for FrontEnd: React + Vite, Tailwind, Java Script and for the BackEnd: Java / Spring Boot and MySql**
+Full Stack Developer with a background in **Banking and Finance**, focused on building web applications, backend services and data-driven business solutions.
 
-- 🌱 I’m currently learning about **React with Java, Spring Boot and SQL**
+I combine **software development, data analysis and business knowledge** to design practical technological solutions, with experience in Java, Spring Boot, React, JavaScript, SQL and Python.
 
-- 👯 I’m looking to collaborate on **new proyect**
+My projects cover **backend development, microservices, web applications, data analysis and Business Intelligence**, with a focus on solving real business needs through technology.
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/NellyCN?tab=repositories)**
+---
 
-- 💬 Ask me about **logical thinking**
+## About Me
 
-- 📫 How to reach me **njanetcumpa@gmail.com**
+* Full Stack Developer with a background in **Banking and Finance**
+* Backend development with **Java, Spring Boot and REST APIs**
+* Experience building applications with **React and JavaScript**
+* Data analysis using **Python, Pandas and Matplotlib**
+* Business Intelligence with **SQL, Power BI and Excel**
+* Experience with relational and NoSQL databases
+* Knowledge of **software development, data analysis and business processes**
+* Interested in opportunities involving **Backend, Full Stack, Automation, Data and Business Intelligence**
 
-- ⚡ Fun fact **"Don't forget the semicolon"**
+---
 
-<h3>🌐Connect with me:</h3>
-<p align="center"><a href="https://www.linkedin.com/in/nellycumpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelly janet cumpa nomberto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@devjanetcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devjanetcn" height="30" width="40" /></a>
-<a href="https://discord.gg/nerucn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nerucn" height="30" width="40" /></a>
-</p>
+## Featured Projects
 
-<h3>🛠️ Tech Stack</h3>
-<h3 align="left">Frontend Development:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### MadeByJane — E-commerce & Business Management
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+Web application for the management and sale of handmade products, combining e-commerce functionality with business-oriented features.
 
-<h3 align="left">Backend Development:</h3>  
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
+**Technologies:** React · Vite · Tailwind CSS · JavaScript · REST APIs · LocalStorage
 
-<h3 align="left">Backend as a Service(BaaS):</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></p>
+**Focus:** E-commerce · Sales · Products · Inventory · Business Processes · UX
 
-<h3 align="left">Testing:</h3>
-<p align="left"> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a></p>
+[Repository](https://github.com/NellyCN/madebyjane-store) · [Live Demo](https://madebyjane.vercel.app/)
 
-<h3 align="left">Software:</h3>
-<p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a></p>
+---
 
-<h3 align="left">Version Control:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+### Banking Microservices
 
-<h3 align="left">Database:</h3>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+Backend solution based on a **microservices architecture** for banking operations, developed using reactive programming and REST APIs.
 
-<h3 align="center">My Summary</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nellycn&show_icons=true&locale=en&layout=compact" alt="nellycn" /></p>
+**Technologies:** Java · Spring Boot · Spring WebFlux · MongoDB · REST APIs · Postman
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nellycn&show_icons=true&locale=en" alt="nellycn" /></p>
+**Focus:** Backend Development · Microservices · APIs · Banking Domain · Software Architecture
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nellycn&" alt="nellycn" /></p>
+[Repository](https://github.com/NellyCN)
+
+---
+
+### TelecomX LATAM — Data Analysis
+
+Data analysis project focused on understanding customer behavior and identifying factors associated with customer churn.
+
+**Technologies:** Python · Pandas · Matplotlib · Jupyter Notebook
+
+**Focus:** Data Cleaning · Exploratory Data Analysis · Data Visualization · Customer Churn · Business Insights
+
+[Repository](https://github.com/NellyCN/TelecomX_LATAM)
+
+---
+
+### Business Intelligence Sales Platform
+
+Business Intelligence solution designed to organize and analyze sales, costs, products and business performance through structured data and KPIs.
+
+**Technologies:** SQL Server · Excel · Power BI
+
+**Focus:** Data Modeling · ETL · Sales Analysis · KPIs · Business Intelligence · Process Automation
+
+[Repository](https://github.com/NellyCN)
+
+---
+
+### Alura Store — Data Analysis
+
+Data analysis project focused on evaluating sales performance, product behavior and business indicators to support business decision-making.
+
+**Technologies:** Python · Pandas · Matplotlib · Jupyter Notebook
+
+**Focus:** Data Analysis · Data Visualization · Sales Performance · Business Insights
+
+[Repository](https://github.com/NellyCN)
+
+---
+
+## Technical Skills
+
+### Languages
+
+Java · JavaScript · Python · SQL
+
+### Frontend
+
+React · Next.js · Vite · Tailwind CSS · HTML · CSS
+
+### Backend
+
+Spring Boot · Spring WebFlux · Node.js · REST APIs · Microservices
+
+### Data & Business Intelligence
+
+Python · Pandas · Matplotlib · Power BI · Excel · ETL · Data Analysis
+
+### Databases
+
+SQL Server · MySQL · Oracle · MongoDB · UniVerse-SQL
+
+### Tools
+
+Git · GitHub · Postman · Jira · Trello · Notion · Figma
+
+---
+
+## Professional Focus
+
+**Backend Development · Full Stack Development · Java · Spring Boot · Microservices · APIs · SQL · Automation · Data Analysis · Business Intelligence**
+
+I am particularly interested in building solutions that connect **technology, data and business processes**, from backend services and web applications to data analysis and business intelligence.
+
+---
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/nellycumpa/) · [GitHub](https://github.com/NellyCN)
+
+---
+
+> **Building software, working with data, solving business problems.**
