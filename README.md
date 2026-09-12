@@ -45,7 +45,7 @@ Backend solution based on a **microservices architecture** for banking operation
 
 **Focus:** Backend Development · Microservices · APIs · Banking Domain · Software Architecture
 
-[Repository]([https://github.com/NellyCN](https://github.com/NellyCN/PFinal-BankSystem_ms-transactions))
+[Repository-transactions](https://github.com/NellyCN/PFinal-BankSystem_ms-transactions)
 [Repository-customers](https://github.com/NellyCN/PFinal-BankSystem_ms-customers)
 
 ---
@@ -58,7 +58,7 @@ Data analysis project focused on understanding customer behavior and identifying
 
 **Focus:** Data Cleaning · Exploratory Data Analysis · Data Visualization · Customer Churn · Business Insights
 
-[Repository]([https://github.com/NellyCN/TelecomX_LATAM](https://github.com/NellyCN/TelecomX_LATAM/blob/main/README.md))
+[Repository](https://github.com/NellyCN/TelecomX_LATAM/blob/main/README.md)
 
 ---
 
@@ -70,7 +70,7 @@ Business Intelligence solution designed to organize and analyze sales, costs, pr
 
 **Focus:** Data Modeling · ETL · Sales Analysis · KPIs · Business Intelligence · Process Automation
 
-[Repository]([https://github.com/NellyCN](https://github.com/NellyCN/excel_sales_cost_management_system/blob/main/README.md))
+[Repository](https://github.com/NellyCN/excel_sales_cost_management_system/blob/main/README.md)
 
 ---
 
@@ -82,7 +82,7 @@ Data analysis project focused on evaluating sales performance, product behavior 
 
 **Focus:** Data Analysis · Data Visualization · Sales Performance · Business Insights
 
-[Repository]([https://github.com/NellyCN](https://github.com/NellyCN/alura-store))
+[Repository](https://github.com/NellyCN/alura-store)
 
 ---
 
