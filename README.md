@@ -45,7 +45,8 @@ Backend solution based on a **microservices architecture** for banking operation
 
 **Focus:** Backend Development · Microservices · APIs · Banking Domain · Software Architecture
 
-[Repository](https://github.com/NellyCN)
+[Repository]([https://github.com/NellyCN](https://github.com/NellyCN/PFinal-BankSystem_ms-transactions))
+[Repository-customers](https://github.com/NellyCN/PFinal-BankSystem_ms-customers)
 
 ---
 
@@ -53,11 +54,11 @@ Backend solution based on a **microservices architecture** for banking operation
 
 Data analysis project focused on understanding customer behavior and identifying factors associated with customer churn.
 
-**Technologies:** Python · Pandas · Matplotlib · Jupyter Notebook
+**Technologies:** Python · Pandas · Matplotlib · Seaborn · numpy · Jupyter Notebook · Google Colab
 
 **Focus:** Data Cleaning · Exploratory Data Analysis · Data Visualization · Customer Churn · Business Insights
 
-[Repository](https://github.com/NellyCN/TelecomX_LATAM)
+[Repository]([https://github.com/NellyCN/TelecomX_LATAM](https://github.com/NellyCN/TelecomX_LATAM/blob/main/README.md))
 
 ---
 
@@ -69,7 +70,7 @@ Business Intelligence solution designed to organize and analyze sales, costs, pr
 
 **Focus:** Data Modeling · ETL · Sales Analysis · KPIs · Business Intelligence · Process Automation
 
-[Repository](https://github.com/NellyCN)
+[Repository]([https://github.com/NellyCN](https://github.com/NellyCN/excel_sales_cost_management_system/blob/main/README.md))
 
 ---
 
@@ -77,11 +78,11 @@ Business Intelligence solution designed to organize and analyze sales, costs, pr
 
 Data analysis project focused on evaluating sales performance, product behavior and business indicators to support business decision-making.
 
-**Technologies:** Python · Pandas · Matplotlib · Jupyter Notebook
+**Technologies:** Python · Pandas · Matplotlib · Seaborn · numpy · Google Colab
 
 **Focus:** Data Analysis · Data Visualization · Sales Performance · Business Insights
 
-[Repository](https://github.com/NellyCN)
+[Repository]([https://github.com/NellyCN](https://github.com/NellyCN/alura-store))
 
 ---
 
