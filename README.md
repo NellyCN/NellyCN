@@ -1,8 +1,8 @@
 # Hi👋 I'm Nelly Cumpa
 
-### Full Stack Developer | Java · Spring Boot · React · SQL | Data & Business Solutions
+### Backend & Full Stack Developer | Java · Spring Boot · React · SQL | Data & Business Solutions
 
-Full Stack Developer with a background in **Banking and Finance**, focused on building web applications, backend services and data-driven business solutions.
+Developer with a background in **Banking and Finance**, focused on building web applications, backend services, and data-driven business solutions.
 
 I combine **software development, data analysis and business knowledge** to design practical technological solutions, with experience in Java, Spring Boot, React, JavaScript, SQL and Python.
 
@@ -10,28 +10,27 @@ My projects cover **backend development, microservices, web applications, data a
 
 ---
 
-## About Me
-
-* Full Stack Developer with a background in **Banking and Finance**
-* Backend development with **Java, Spring Boot and REST APIs**
-* Experience building applications with **React and JavaScript**
-* Data analysis using **Python, Pandas and Matplotlib**
-* Business Intelligence with **SQL, Power BI and Excel**
-* Experience with relational and NoSQL databases
-* Knowledge of **software development, data analysis and business processes**
-* Interested in opportunities involving **Backend, Full Stack, Automation, Data and Business Intelligence**
+## 👩‍💻 About Me
+- Background in **Banking and Finance**, transitioning into software development.  
+- Experience with **Java, Spring Boot, REST APIs, SQL, MongoDB**.  
+- Building applications with **React and JavaScript**.  
+- Data analysis using **Python (Pandas, Matplotlib, Seaborn)**.  
+- Knowledge of **business processes, data modeling, and BI tools**.  
+- Interested in opportunities involving **Backend, Full Stack, Automation, Data, and Business Intelligence**.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+"Each project reflects my focus on connecting backend systems, data analysis, and business processes to deliver practical solutions."
 
 ### MadeByJane — E-commerce & Business Management
 
-Web application for the management and sale of handmade products, combining e-commerce functionality with business-oriented features.
+Web application for the managing and selling handmade products, combining e-commerce functionality with business-oriented features.
 
 **Technologies:** React · Vite · Tailwind CSS · JavaScript · REST APIs · LocalStorage
 
-**Focus:** E-commerce · Sales · Products · Inventory · Business Processes · UX
+**Focus:** E-commerce · Sales · Products · Business Processes · UX
 
 [Repository](https://github.com/NellyCN/madebyjane-store) · [Live Demo](https://madebyjane.vercel.app/)
 
@@ -58,7 +57,7 @@ Data analysis project focused on understanding customer behavior and identifying
 
 **Focus:** Data Cleaning · Exploratory Data Analysis · Data Visualization · Customer Churn · Business Insights
 
-[Repository](https://github.com/NellyCN/TelecomX_LATAM/blob/main/README.md)
+[Repository](https://github.com/NellyCN/TelecomX_LATAM)
 
 ---
 
@@ -66,7 +65,7 @@ Data analysis project focused on understanding customer behavior and identifying
 
 Business Intelligence solution designed to organize and analyze sales, costs, products and business performance through structured data and KPIs.
 
-**Technologies:** SQL Server · Excel · Power BI
+**Technologies:** Excel 
 
 **Focus:** Data Modeling · ETL · Sales Analysis · KPIs · Business Intelligence · Process Automation
 
@@ -86,43 +85,30 @@ Data analysis project focused on evaluating sales performance, product behavior 
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Languages
+### Core Skills
+- **Backend & APIs:** Java · Spring Boot · REST APIs · Microservices
+- **Databases:** SQL Server · MySQL · Oracle · MongoDB  
+- **Data Analysis:** Python · Pandas · Matplotlib · Seaborn  
+- **Business Intelligence:** Excel · Power BI · ETL basics  
 
-Java · JavaScript · Python · SQL
-
-### Frontend
-
-React · Next.js · Vite · Tailwind CSS · HTML · CSS
-
-### Backend
-
-Spring Boot · Spring WebFlux · Node.js · REST APIs · Microservices
-
-### Data & Business Intelligence
-
-Python · Pandas · Matplotlib · Power BI · Excel · ETL · Data Analysis
-
-### Databases
-
-SQL Server · MySQL · Oracle · MongoDB · UniVerse-SQL
-
-### Tools
-
-Git · GitHub · Postman · Jira · Trello · Notion · Figma
+### Complementary Skills
+- **Frontend:** React · Next.js · Vite · Tailwind CSS · HTML · CSS  
+- **Other Tools:** Git · GitHub · Postman · Jira · Trello · Notion · Figma  
+- **Extra:** Node.js · Jupyter Notebook · Google Colab · UniVerse-SQL
 
 ---
 
-## Professional Focus
+## 🎯 Professional Focus
 
-**Backend Development · Full Stack Development · Java · Spring Boot · Microservices · APIs · SQL · Automation · Data Analysis · Business Intelligence**
+I focus on **backend development and data-driven solutions**, applying my knowledge and personal projects to connect **technology, data, and business processes**. 
 
-I am particularly interested in building solutions that connect **technology, data and business processes**, from backend services and web applications to data analysis and business intelligence.
+My goal is to continue growing as a developer, building solutions that integrate **backend systems, data analysis, and business intelligence** to solve real business problems.
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/nellycumpa/) · [GitHub](https://github.com/NellyCN)
 
