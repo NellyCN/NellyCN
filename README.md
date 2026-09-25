@@ -1,6 +1,6 @@
 # Hi👋 I'm Nelly Cumpa
 
-### Backend & Full Stack Developer | Java · Spring Boot · React · SQL | Data & Business Solutions
+### Data & Business Solutions | Python · Java · Spring Boot · React · SQL | Backend & Full Stack Developer 
 
 Developer with a background in **Banking and Finance**, focused on building web applications, backend services, and data-driven business solutions.
 
@@ -24,31 +24,6 @@ My projects cover **backend development, microservices, web applications, data a
 
 "Each project reflects my focus on connecting backend systems, data analysis, and business processes to deliver practical solutions."
 
-### MadeByJane — E-commerce & Business Management
-
-Web application for the managing and selling handmade products, combining e-commerce functionality with business-oriented features.
-
-**Technologies:** React · Vite · Tailwind CSS · JavaScript · REST APIs · LocalStorage
-
-**Focus:** E-commerce · Sales · Products · Business Processes · UX
-
-[Repository](https://github.com/NellyCN/madebyjane-store) · [Live Demo](https://madebyjane.vercel.app/)
-
----
-
-### Banking Microservices
-
-Backend solution based on a **microservices architecture** for banking operations, developed using reactive programming and REST APIs.
-
-**Technologies:** Java · Spring Boot · Spring WebFlux · MongoDB · REST APIs · Postman
-
-**Focus:** Backend Development · Microservices · APIs · Banking Domain · Software Architecture
-
-[Repository-transactions](https://github.com/NellyCN/PFinal-BankSystem_ms-transactions)
-[Repository-customers](https://github.com/NellyCN/PFinal-BankSystem_ms-customers)
-
----
-
 ### TelecomX LATAM — Data Analysis
 
 Data analysis project focused on understanding customer behavior and identifying factors associated with customer churn.
@@ -58,18 +33,6 @@ Data analysis project focused on understanding customer behavior and identifying
 **Focus:** Data Cleaning · Exploratory Data Analysis · Data Visualization · Customer Churn · Business Insights
 
 [Repository](https://github.com/NellyCN/TelecomX_LATAM)
-
----
-
-### Business Intelligence Sales Platform
-
-Business Intelligence solution designed to organize and analyze sales, costs, products and business performance through structured data and KPIs.
-
-**Technologies:** Excel 
-
-**Focus:** Data Modeling · ETL · Sales Analysis · KPIs · Business Intelligence · Process Automation
-
-[Repository](https://github.com/NellyCN/excel_sales_cost_management_system/blob/main/README.md)
 
 ---
 
@@ -85,14 +48,50 @@ Data analysis project focused on evaluating sales performance, product behavior 
 
 ---
 
+### Business Intelligence Sales Platform
+
+Business Intelligence solution designed to organize and analyze sales, costs, products and business performance through structured data and KPIs.
+
+**Technologies:** Excel 
+
+**Focus:** Data Modeling · ETL · Sales Analysis · KPIs · Business Intelligence · Process Automation
+
+[Repository](https://github.com/NellyCN/excel_sales_cost_management_system/blob/main/README.md)
+---
+
+### Banking Microservices
+
+Backend solution based on a **microservices architecture** for banking operations, developed using reactive programming and REST APIs.
+
+**Technologies:** Java · Spring Boot · Spring WebFlux · MongoDB · REST APIs · Postman
+
+**Focus:** Backend Development · Microservices · APIs · Banking Domain · Software Architecture
+
+[Repository-transactions](https://github.com/NellyCN/PFinal-BankSystem_ms-transactions)
+[Repository-customers](https://github.com/NellyCN/PFinal-BankSystem_ms-customers)
+
+---
+
+### MadeByJane — E-commerce & Business Management
+
+Web application for the managing and selling handmade products, combining e-commerce functionality with business-oriented features.
+
+**Technologies:** React · Vite · Tailwind CSS · JavaScript · REST APIs · LocalStorage
+
+**Focus:** E-commerce · Sales · Products · Business Processes · UX
+
+[Repository](https://github.com/NellyCN/madebyjane-store) · [Live Demo](https://madebyjane.vercel.app/)
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Core Skills
-- **Backend & APIs:** Java · Spring Boot · REST APIs · Microservices
 - **Databases:** SQL Server · MySQL · Oracle · MongoDB  
 - **Data Analysis:** Python · Pandas · Matplotlib · Seaborn  
 - **Business Intelligence:** Excel · Power BI · ETL basics  
-
+- **Backend & APIs:** Java · Spring Boot · REST APIs · Microservices
+  
 ### Complementary Skills
 - **Frontend:** React · Next.js · Vite · Tailwind CSS · HTML · CSS  
 - **Other Tools:** Git · GitHub · Postman · Jira · Trello · Notion · Figma  
@@ -102,9 +101,9 @@ Data analysis project focused on evaluating sales performance, product behavior 
 
 ## 🎯 Professional Focus
 
-I focus on **backend development and data-driven solutions**, applying my knowledge and personal projects to connect **technology, data, and business processes**. 
-
-My goal is to continue growing as a developer, building solutions that integrate **backend systems, data analysis, and business intelligence** to solve real business problems.
+- Contribute to **Data Engineering projects** with Python and SQL in cloud environments.  
+- Build scalable **backend and microservices solutions** for fintech and digital platforms.  
+- Expand expertise in **automation, RPA, and Big Data tools**. 
 
 ---
 
